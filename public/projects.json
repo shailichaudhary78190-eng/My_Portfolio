@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Student Marks Predictor",
+      "description": "A Python-based model that predicts student grades based on study hours using simple linear regression. Includes data cleaning and handling using Pandas, and model training/testing with Scikit-learn.",
+      "tags": ["Python", "Pandas", "NumPy", "Scikit-learn"],
+      "image": "/project-abstract-1.svg"
+    },
+    {
+      "title": "Exploratory Data Analysis on Retail CSV Data",
+      "description": "Performed EDA on a retail sales dataset to uncover patterns, distributions, and inconsistencies. Cleaned missing values, normalized data types, and generated statistical summaries (mean, median).",
+      "tags": ["Python", "Pandas", "NumPy"],
+      "image": "/project-abstract-2.svg"
+    }
+  ]
+}

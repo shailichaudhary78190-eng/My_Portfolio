@@ -68,12 +68,11 @@ const Hero = () => {
             </h1>
 
             <p className="text-xl md:text-2xl text-muted-foreground mb-4">
-              Web Designer & Developer
+              Python Developer | Data Analyst
             </p>
 
             <p className="text-base md:text-lg text-muted-foreground max-w-xl md:max-w-2xl mb-8">
-              MCA 2nd Year Student crafting beautiful and functional web
-              experiences with modern technologies and creative design.
+              MCA 2nd Year Student leveraging Python for data analysis, automation, and building intelligent applications.
             </p>
 
             <div className="flex gap-3 md:gap-4 justify-center md:justify-start mb-8 flex-wrap">
